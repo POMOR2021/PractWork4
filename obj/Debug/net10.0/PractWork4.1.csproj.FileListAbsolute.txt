@@ -1,0 +1,4 @@
+C:\Users\221\Students\ispp41\PractWork4.1\PractWork4.1\obj\Debug\net10.0\PractWork4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ispp41\PractWork4.1\PractWork4.1\obj\Debug\net10.0\PractWork4.1.AssemblyInfoInputs.cache
+C:\Users\221\Students\ispp41\PractWork4.1\PractWork4.1\obj\Debug\net10.0\PractWork4.1.AssemblyInfo.cs
+C:\Users\221\Students\ispp41\PractWork4.1\PractWork4.1\obj\Debug\net10.0\PractWork4.1.csproj.CoreCompileInputs.cache
